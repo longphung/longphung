@@ -17,6 +17,4 @@ Here are some ideas to get you started:t
 
 ## My badges
 
-<a href="https://www.credly.com/badges/afbe7889-70fd-41fa-b4eb-cc400a2f695e/public_url">
-  ![aws-certified-solutions-architect-associate](https://github.com/longphung/longphung/assets/30420711/1eba79ff-e782-4163-bc32-711bee7ef438)
-</a>
+<a href="https://www.credly.com/badges/afbe7889-70fd-41fa-b4eb-cc400a2f695e/public_url">![aws-certified-solutions-architect-associate](https://github.com/longphung/longphung/assets/30420711/1eba79ff-e782-4163-bc32-711bee7ef438)</a>
