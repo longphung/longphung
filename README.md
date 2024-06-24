@@ -17,4 +17,4 @@ Here are some ideas to get you started:t
 
 ## My badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="afbe7889-70fd-41fa-b4eb-cc400a2f695e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/afbe7889-70fd-41fa-b4eb-cc400a2f695e/public_url">![aws-certified-solutions-architect-associate](https://github.com/longphung/longphung/assets/30420711/4bf17774-4602-49de-9008-96d4bcd1eb4a)</a>
