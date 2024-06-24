@@ -1,4 +1,4 @@
-## Hi there 👋
+![aws-certified-solutions-architect-associate (1)](https://github.com/longphung/longphung/assets/30420711/58f930c9-c24e-4a4f-a332-4f4b377a31c7)## Hi there 👋
 
 <!--
 **longphung/longphung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,5 @@ Here are some ideas to get you started:t
 
 ## My badges
 
-<a href="https://www.credly.com/badges/afbe7889-70fd-41fa-b4eb-cc400a2f695e/public_url">![aws-certified-solutions-architect-associate](https://github.com/longphung/longphung/assets/30420711/4bf17774-4602-49de-9008-96d4bcd1eb4a)</a>
+<a href="https://www.credly.com/badges/afbe7889-70fd-41fa-b4eb-cc400a2f695e/public_url">![aws-certified-solutions-architect-associate (1)](https://github.com/longphung/longphung/assets/30420711/82790238-2306-4c0e-b0fa-046c8e3e9bb6)
+</a>
