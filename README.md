@@ -14,6 +14,9 @@ Here are some ideas to get you started:t
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a software developer with 4 years of experience in full-stack application development, primarily focusing on front-end and mobile development with ReactJs and React Native.  I also have experience in DevOps and AWS. I am passionate about growing into a full-stack engineer and future tech-lead. Currently coding away in Melbourne.
+
+Feel free to check out my projects and get in touch! 🚀
 
 ## My badges
 
